@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=201
+
+This scripts allows to use / share buffers over multiple, clientserver-enabled vims.
+Especially, the :BCbuffer command allows to "steal" a buffer which is opened in another vim.
+
+The file bcbuf.vim provides further documentation.
+ 
